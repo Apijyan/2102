@@ -2,7 +2,7 @@ bookdown::bs4_book:
   css: style.css
   split_by: chapter
   repo: 
-    base: https://github.com/apijyan/2102
+    base: https://github.com/Apijyan/2102
     branch: main
 
   config:
